@@ -7,4 +7,4 @@ python genMnist.py
 ```
 The generated testing samples will be stored in mnist_testing.
 
-If you want to generate the training samples, please run the above command with the 7th line commented and the generated samples will be in your mnist_training folder.
+If you want to generate the training samples, please run the above command with the 7th line commented and the generated samples will be in your mnist_training folder. NOTE that the codes DO NOT take the decoding of label datasets into account.
